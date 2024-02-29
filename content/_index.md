@@ -8,6 +8,7 @@ In the vast landscape of consumerism, paper receipts hold a crucial place in the
 ## Explore
 
 {{< cards >}}
+  {{< card link="introduction" title="Introduction" image="introduction/paper-rolls.jpg" >}}
   {{< card link="life-cycle" title="Life Cycle" icon="book-open" >}}
   {{< card link="risk-assessment" title="Risk Assessment" icon="user" >}}
 {{< /cards >}}

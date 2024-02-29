@@ -1,9 +1,9 @@
 ---
-title: Documentation
+title: 
 next: first-page
 ---
 
-This is a demo of the theme's documentation layout.
+This is the Risk Assessment page.
 
 ## Hello, World!
 

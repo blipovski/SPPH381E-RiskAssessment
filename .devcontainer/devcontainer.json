@@ -15,7 +15,9 @@
         "tamasfe.even-better-toml",
         "budparr.language-hugo-vscode"
       ]
-    }
+    },
+    "settings": {
+      "remote.containers.copyGitConfig": true
   },
   "forwardPorts": [1313]
 }

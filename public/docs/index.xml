@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My Site – Documentation</title>
+    <title>SPPH 381E – Docs</title>
     <link>//localhost:1313/docs/</link>
-    <description>Recent content in Documentation on My Site</description>
+    <description>Recent content in Docs on SPPH 381E</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
@@ -15,11 +15,73 @@
     
     
     <item>
-      <title>Demo Page</title>
-      <link>//localhost:1313/docs/first-page/</link>
+      <title>Context</title>
+      <link>//localhost:1313/docs/introduction/context/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/docs/first-page/</guid>
+      <guid>//localhost:1313/docs/introduction/context/</guid>
+      <description>
+        
+        
+        &lt;p&gt;A simple demo page.&lt;/p&gt;
+&lt;h2&gt;What is a Receipt?&lt;span class=&#34;absolute -mt-20&#34; id=&#34;what-is-a-receipt&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#what-is-a-receipt&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      This project uses the term &lt;strong&gt;Receipt Paper (RP)&lt;/strong&gt; for clarity and consistency.
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;A point-of-sales (POS) receipt is a document acknowledging that a person has received money or property in payment following a sale or other transfer of goods or provision of a service. It serves as proof of transaction and typically includes details such as the date of purchase, the items purchased, their prices, the total amount paid, and the seller&amp;rsquo;s information. Unlike other receipts, such as invoices which are issued prior to payment as a request for payment, or e-receipts sent digitally to customers, POS receipts are tangible proof provided immediately after a purchase.&lt;/p&gt;
+&lt;p&gt;Receipt paper is the specialized paper utilized for printing receipts, with thermal paper being the most commonly used type. Given that these terms are often used interchangeably, this project will adopt the term ‘receipt paper’ (RP) for clarity and consistency.&lt;/p&gt;
+&lt;h2&gt;Comparison&lt;span class=&#34;absolute -mt-20&#34; id=&#34;comparison&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#comparison&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;RP is a chemically coated paper that reacts to heat for inkless printing. Designed to be cost-effective for businesses requiring swift, ink-free printing, RP is available in rolls, making it easily adaptable to the high-volume demands of retail and service industry transactions. However, its chemical coating poses environmental recycling challenges, contrasting with the more straightforward, eco-friendly recycling of regular paper. Additionally, RP has limitations for preserving documents long-term because the information gradually fades with time. Nevertheless, its adoption continues unabated and remains the global standard for businesses globally.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Critical Review</title>
+      <link>//localhost:1313/docs/life-cycle/5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/life-cycle/5/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Demo Page</title>
+      <link>//localhost:1313/docs/risk-assessment/first-page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/risk-assessment/first-page/</guid>
       <description>
         
         
@@ -29,16 +91,145 @@
     </item>
     
     <item>
-      <title>Leaf Page</title>
-      <link>//localhost:1313/docs/folder/leaf/</link>
+      <title>Goal &amp; Scope Definition</title>
+      <link>//localhost:1313/docs/life-cycle/1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/docs/folder/leaf/</guid>
+      <guid>//localhost:1313/docs/life-cycle/1/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Impact Assessment</title>
+      <link>//localhost:1313/docs/life-cycle/3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/life-cycle/3/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Interpretation</title>
+      <link>//localhost:1313/docs/life-cycle/4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/life-cycle/4/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Inventory Analysis</title>
+      <link>//localhost:1313/docs/life-cycle/2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/life-cycle/2/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Leaf Page</title>
+      <link>//localhost:1313/docs/risk-assessment/folder/leaf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/risk-assessment/folder/leaf/</guid>
       <description>
         
         
         &lt;p&gt;This page is under a folder.&lt;/p&gt;
 
+      </description>
+    </item>
+    
+    <item>
+      <title>Materials</title>
+      <link>//localhost:1313/docs/introduction/materials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/introduction/materials/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Thermal receipt paper utilizes a thermochromic process for inkless printing, achieved through its multi-layered composition. These layers, comprising the topcoat, thermal layer, base paper, precoat, and backcoat, work in concert to ensure the print&amp;rsquo;s durability and clarity. Central to its function is the thermal layer, where a mix of active agents triggers the color-changing process essential for printing.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Overview</title>
+      <link>//localhost:1313/docs/risk-assessment/folder/charts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/risk-assessment/folder/charts/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Pages can be organized into folders.&lt;/p&gt;
+&lt;pre class=&#34;mermaid mt-6&#34;&gt;flowchart LR
+    subgraph Thermal Layer
+        subgraph Thermalchromatic Agents
+            leuco[Leuco Dye] --&gt; pcm[Phase Change Materials]
+            dev[Developers] --&gt; pcm
+        end
+
+        pcm --&gt; tl([Thermal Layer])
+        sen[Sensitizers] --&gt; tl
+        stab[Stabilizers] --&gt; tl
+    end
+
+    subgraph Topcoat
+        over[Overcoat Resins ] --&gt; top([Topcoat])
+        plac[Plasticizers] --&gt; top
+        lub1[Lubricants] --&gt; top
+        uv[UV Stabilizers] --&gt; top
+        ox[Antioxidants] --&gt; top
+        anti1[Anti-Static Agents] --&gt; top
+    end
+
+    subgraph Base Paper
+        wood[Wood Pulp] --&gt; paper[Base Paper]
+        fill1[Fillers] --&gt; paper
+        bind1[Binders] --&gt; paper
+        size[Sizing Agents] --&gt; paper
+    end
+
+    subgraph Precoat
+        bind2[Binders] --&gt; pre[Precoat]
+        fill2[Fillers] --&gt; pre
+        dis[Dispersants] --&gt; pre
+        lub2[Lubricants] --&gt; pre
+        cla[Cross-linking Agents] --&gt; pre
+    end
+
+    subgraph Backcoat
+        lub3[Lubricants] --&gt; back[Backcoat]
+        anti2[Anti-Static Agents] --&gt; back
+        fill3[Fillers] --&gt; back
+        pig[Pigments] --&gt; back
+        bind3[Binders] --&gt; back
+        ara[Abrasion Resistant Agents] --&gt; back
+    end
+
+    top --&gt; rp((Receipt Paper))
+    tl --&gt; rp
+    paper --&gt; rp
+    pre --&gt; rp
+    back --&gt; rp&lt;/pre&gt;
       </description>
     </item>
     

@@ -1,0 +1,46 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SPPH 381E – Risk Assessment</title>
+    <link>//localhost:1313/docs/risk-assessment/</link>
+    <description>Recent content in Risk Assessment on SPPH 381E</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="//localhost:1313/docs/risk-assessment/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Demo Page</title>
+      <link>//localhost:1313/docs/risk-assessment/first-page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/risk-assessment/first-page/</guid>
+      <description>
+        
+        
+        &lt;p&gt;A simple demo page.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Folder</title>
+      <link>//localhost:1313/docs/risk-assessment/folder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/risk-assessment/folder/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Pages can be organized into folders.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

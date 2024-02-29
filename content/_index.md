@@ -3,16 +3,21 @@ title: Receipt Paper
 toc: false
 ---
 
-In the vast landscape of consumerism, paper receipts hold a crucial place in the routine functioning of business transactions. Utilized across various sectors, such as grocery stores, banking, restaurants, and gas stations, receipts have become an omnipresent component of modern commerce. Receipts, valued for their fast and legible printing, play a crucial role in personal and commercial accounting. Although Canada does not have explicit legislation mandating receipts (for payment acknowledgement), it has become a widely adopted practice, effectively making it a de facto standard.
+![Frontpage banner](receipt_6000x1000.png "Image Courtesy of upklyak on Freepik")
+
+<!--- https://www.freepik.com/free-vector/realistic-set-receipt-paper-templates-grey_37077070.htm#query=long%20receipt&position=42&from_view=keyword&track=ais&uuid=e8301b97-de9d-4398-81d1-47fb8217d7d5 --->
+
+Welcome to my SPPH 381E project website!
+
+In the vast landscape of consumerism, paper receipts hold a crucial place in the routine functioning of business transactions. Utilized across various sectors, such as grocery stores, banking, restaurants, and gas stations, receipts have become an omnipresent component of modern commerce.
 
 ## Explore
 
 {{< cards >}}
-  {{< card link="introduction" title="Introduction" image="introduction/paper-rolls.jpg" >}}
-  {{< card link="life-cycle" title="Life Cycle" icon="book-open" >}}
-  {{< card link="risk-assessment" title="Risk Assessment" icon="user" >}}
+  {{< card link="introduction" title="Introduction" image="introduction/receipt-printer_6000x2000.png" icon="information-circle" >}}
+  {{< card link="background" title="Background" image="background/paper-mill_6000x2000.png" icon="beaker" >}}
+  {{< card link="risk-assessment" title="Risk Assessment" image="risk-assessment/clipboard-worker_6000x2000.png" icon="clipboard-list" >}}
+  {{< card link="life-cycle" title="Life Cycle Assessment" image="life-cycle/paper-rolls_6000x2000.png" icon="refresh" >}}
 {{< /cards >}}
 
-## Documentation
-
-For more information, visit [Hextra](https://imfing.github.io/hextra).
+words.

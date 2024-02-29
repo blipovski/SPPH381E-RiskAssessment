@@ -3,7 +3,7 @@ title: Risk Assessment
 next: first-page
 ---
 
-This is the Risk Assessment page.
+![Worker reviewing stock in warehouse](clipboard-worker_6000x2000.png "Image Courtesy of Mauricio Gutiérrez on Unsplash")
 
 ## Hello, World!
 

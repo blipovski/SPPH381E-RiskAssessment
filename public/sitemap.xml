@@ -2,32 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/about/</loc>
+    <loc>//localhost:1313/life-cycle/1/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>//localhost:1313/life-cycle/2/</loc>
   </url><url>
-    <loc>/risk-assessment/folder/charts/</loc>
+    <loc>//localhost:1313/life-cycle/3/</loc>
   </url><url>
-    <loc>/life-cycle/first-page/</loc>
+    <loc>//localhost:1313/life-cycle/4/</loc>
   </url><url>
-    <loc>/risk-assessment/first-page/</loc>
+    <loc>//localhost:1313/life-cycle/5/</loc>
   </url><url>
-    <loc>/life-cycle/folder/</loc>
+    <loc>//localhost:1313/about/</loc>
   </url><url>
-    <loc>/risk-assessment/folder/</loc>
+    <loc>//localhost:1313/background/</loc>
   </url><url>
-    <loc>/introduction/</loc>
+    <loc>//localhost:1313/categories/</loc>
   </url><url>
-    <loc>/life-cycle/folder/leaf/</loc>
+    <loc>//localhost:1313/introduction/context/</loc>
   </url><url>
-    <loc>/risk-assessment/folder/leaf/</loc>
+    <loc>//localhost:1313/risk-assessment/first-page/</loc>
   </url><url>
-    <loc>/life-cycle/</loc>
+    <loc>//localhost:1313/risk-assessment/folder/</loc>
   </url><url>
-    <loc>/</loc>
+    <loc>//localhost:1313/introduction/</loc>
   </url><url>
-    <loc>/risk-assessment/</loc>
+    <loc>//localhost:1313/risk-assessment/folder/leaf/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>//localhost:1313/life-cycle/</loc>
+  </url><url>
+    <loc>//localhost:1313/introduction/materials/</loc>
+  </url><url>
+    <loc>//localhost:1313/risk-assessment/folder/charts/</loc>
+  </url><url>
+    <loc>//localhost:1313/</loc>
+  </url><url>
+    <loc>//localhost:1313/risk-assessment/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
   </url>
 </urlset>

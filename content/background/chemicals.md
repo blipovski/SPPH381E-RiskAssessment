@@ -29,12 +29,16 @@ Within the thermal layer, six chemical components facilitate a reaction when the
 
 ### Leuco Dyes
 
-words.
+Leuco Dyes are colourless (or nearly colourless) compounds that can be transformed into a coloured state by a chemical reaction. In thermal paper, leuco dyes develop colour when they react with developers. The colour change typically occurs due to a structural change in the dye molecule, which alters the way it absorbs and reflects light.
 
 ### Developers
 
-words.
+Developers are chemicals that react with leuco dyes in the presence of heat to produce the colour change. Developers have acidic properties that trigger leuco dyes to change colour.
 
 ### Phase Change Materials (PCM) 
 
-words.
+Phase change materials serve as the medium within which the leuco dye and developer are embedded. When heat is applied, it melts, allowing a reaction between the leuco dye and developer.hugo
+
+{{< callout type="info" >}}
+  Although the precise composition may vary, these are some of the most commonly used chemicals:
+{{< /callout >}}

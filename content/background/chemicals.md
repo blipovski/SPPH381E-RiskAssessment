@@ -2,8 +2,8 @@
 title: Chemicals 
 type: docs
 weight: 2
-prev: docs/background/context
-next: 
+prev: background/context
+next: risk-assessment
 ---
 
 ## Thermal Layer

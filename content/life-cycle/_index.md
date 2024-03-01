@@ -1,7 +1,8 @@
 ---
 title: Life Cycle Assessment
-previous: /
-next: docs/life-cycle/1
+type: docs
+prev: /
+next: life-cycle/1
 ---
 
 ![Receipt Paper Rolls](paper-rolls_6000x2000.png "Image Courtesy of Panda Paper on Unsplash")

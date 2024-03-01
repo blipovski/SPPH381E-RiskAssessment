@@ -1,7 +1,8 @@
 ---
 title: Background
-prev: docs/intro
-next: docs/background/context
+type: docs
+prev: intro
+next: background/context
 ---
 
 ![Receipt Paper Rolls](paper-mill_6000x2000.png "Image Courtesy of Panda Paper on Unsplash")

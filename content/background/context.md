@@ -2,8 +2,8 @@
 title: Context 
 type: docs
 weight: 1
-prev: background
-next: background/chemicals
+prev: docs/background
+next: docs/background/chemicals
 ---
 
 ## What is Receipt Paper?

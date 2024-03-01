@@ -1,6 +1,8 @@
 ---
 title: Introduction
-next: background
+type: docs
+prev: /
+next: docs/background
 ---
 
 ![Receipt Paper Rolls](receipt-printer_6000x2000.png "Image Courtesy of Towfiqu Barbhuiya on Unsplash")

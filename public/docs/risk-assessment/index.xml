@@ -14,33 +14,5 @@
       
     
     
-    <item>
-      <title>Demo Page</title>
-      <link>//localhost:1313/docs/risk-assessment/first-page/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/docs/risk-assessment/first-page/</guid>
-      <description>
-        
-        
-        &lt;p&gt;A simple demo page.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Folder</title>
-      <link>//localhost:1313/docs/risk-assessment/folder/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/docs/risk-assessment/folder/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Pages can be organized into folders.&lt;/p&gt;
-
-      </description>
-    </item>
-    
   </channel>
 </rss>

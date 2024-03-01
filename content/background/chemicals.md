@@ -2,7 +2,7 @@
 title: Chemicals 
 type: docs
 weight: 2
-prev: background/context
+prev: docs/background/context
 next: 
 ---
 

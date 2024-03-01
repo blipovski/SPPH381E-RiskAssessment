@@ -1,0 +1,128 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SPPH 381E – Background</title>
+    <link>//localhost:1313/docs/background/</link>
+    <description>Recent content in Background on SPPH 381E</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="//localhost:1313/docs/background/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Context</title>
+      <link>//localhost:1313/docs/background/context/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/background/context/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;What is Receipt Paper?&lt;span class=&#34;absolute -mt-20&#34; id=&#34;what-is-receipt-paper&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#what-is-receipt-paper&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;A point-of-sales (POS) receipt is a document acknowledging that a person has received money or property in payment following a sale or other transfer of goods or provision of a service. It serves as proof of transaction and typically includes details such as the date of purchase, the items purchased, their prices, the total amount paid, and the seller&amp;rsquo;s information. Unlike other receipts, such as invoices which are issued prior to payment as a request for payment, or e-receipts sent digitally to customers, POS receipts are tangible proof provided immediately after a purchase.&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      This project uses the term &lt;strong&gt;Receipt Paper&lt;/strong&gt; is used
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2&gt;Comparison&lt;span class=&#34;absolute -mt-20&#34; id=&#34;comparison&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#comparison&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;RP is a chemically coated paper that reacts to heat for inkless printing. Designed to be cost-effective for businesses requiring swift, ink-free printing, RP is available in rolls, making it easily adaptable to the high-volume demands of retail and service industry transactions. However, its chemical coating poses environmental recycling challenges, contrasting with the more straightforward, eco-friendly recycling of regular paper. Additionally, RP has limitations for preserving documents long-term because the information gradually fades with time. Nevertheless, its adoption continues unabated and remains the global standard for businesses globally.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Chemicals</title>
+      <link>//localhost:1313/docs/background/chemicals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/background/chemicals/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Thermal Layer&lt;span class=&#34;absolute -mt-20&#34; id=&#34;thermal-layer&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#thermal-layer&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;pre class=&#34;mermaid mt-6&#34;&gt;
+flowchart LR
+	leuco([Leuco Dye]) ---&gt; pcm[Phase Change Material]
+    dev([Developer]) ---&gt; pcm
+    
+    pcm --&gt; tl[Thermal Layer]
+
+    sen([Sensitizers]) --&gt; tl
+    stab([Stabilizers]) --&gt; tl
+
+    tl --&gt; rp((( Receipt Paper)))
+    
+    style tl stroke-width:4px,stroke-dasharray: 0&lt;/pre&gt;&lt;p&gt;Within the thermal layer, six chemical components facilitate a reaction when the receipt paper is exposed to heat. Critically, the agents responsible for the color change are the leuco dye, developer, and phase change materials. Although the precise composition may vary, these chemicals are commonly used:&lt;/p&gt;
+&lt;h3&gt;Leuco Dyes&lt;span class=&#34;absolute -mt-20&#34; id=&#34;leuco-dyes&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#leuco-dyes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Leuco Dyes are colourless (or nearly colourless) compounds that can be transformed into a coloured state by a chemical reaction. In thermal paper, leuco dyes develop colour when they react with developers. The colour change typically occurs due to a structural change in the dye molecule, which alters the way it absorbs and reflects light.&lt;/p&gt;
+&lt;h3&gt;Developers&lt;span class=&#34;absolute -mt-20&#34; id=&#34;developers&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#developers&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Developers are chemicals that react with leuco dyes in the presence of heat to produce the colour change. Developers have acidic properties that trigger leuco dyes to change colour.&lt;/p&gt;
+&lt;h3&gt;Phase Change Materials (PCM)&lt;span class=&#34;absolute -mt-20&#34; id=&#34;phase-change-materials-pcm&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#phase-change-materials-pcm&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Phase change materials serve as the medium within which the leuco dye and developer are embedded. When heat is applied, it melts, allowing a reaction between the leuco dye and developer.hugo&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      Although the precise composition may vary, these are some of the most commonly used chemicals:
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

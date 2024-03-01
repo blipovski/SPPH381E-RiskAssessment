@@ -14,7 +14,7 @@ In the vast landscape of consumerism, paper receipts hold a crucial place in the
 ## Explore
 
 {{< cards >}}
-  {{< card link="introduction" title="Introduction" image="introduction/receipt-printer_6000x2000.png" icon="information-circle" >}}
+  {{< card link="intro" title="Introduction" image="intro/receipt-printer_6000x2000.png" icon="information-circle" >}}
   {{< card link="background" title="Background" image="background/paper-mill_6000x2000.png" icon="beaker" >}}
   {{< card link="risk-assessment" title="Risk Assessment" image="risk-assessment/clipboard-worker_6000x2000.png" icon="clipboard-list" >}}
   {{< card link="life-cycle" title="Life Cycle Assessment" image="life-cycle/paper-rolls_6000x2000.png" icon="refresh" >}}

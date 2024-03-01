@@ -32,8 +32,8 @@ Within the thermal layer, six chemical components facilitate a reaction when the
 Leuco Dyes are colourless (or nearly colourless) compounds that can be transformed into a coloured state by a chemical reaction. In thermal paper, leuco dyes develop colour when they react with developers. The colour change typically occurs due to a structural change in the dye molecule, which alters the way it absorbs and reflects light.
 
 {{< cards >}}
-  {{< card title="Fluoran" image="fluoran.png" >}}
-  {{< card title="Crystal Violet Lactone" image="cvl.png" >}}
+  {{< card title="Fluoran" image="background/fluoran.png" >}}
+  {{< card title="Crystal Violet Lactone" image="background/cvl.png" >}}
 {{< /cards >}}
 
 ### Developers

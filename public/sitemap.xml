@@ -2,34 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/background/context/</loc>
+    <loc>/background/context/</loc>
   </url><url>
-    <loc>//localhost:1313/life-cycle/1/</loc>
+    <loc>/life-cycle/1/</loc>
   </url><url>
-    <loc>//localhost:1313/background/chemicals/</loc>
+    <loc>/background/chemicals/</loc>
   </url><url>
-    <loc>//localhost:1313/life-cycle/2/</loc>
+    <loc>/life-cycle/2/</loc>
   </url><url>
-    <loc>//localhost:1313/life-cycle/3/</loc>
+    <loc>/life-cycle/3/</loc>
   </url><url>
-    <loc>//localhost:1313/life-cycle/4/</loc>
+    <loc>/life-cycle/4/</loc>
   </url><url>
-    <loc>//localhost:1313/life-cycle/5/</loc>
+    <loc>/life-cycle/5/</loc>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>/about/</loc>
   </url><url>
-    <loc>//localhost:1313/background/</loc>
+    <loc>/background/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/intro/</loc>
+    <loc>/intro/</loc>
   </url><url>
-    <loc>//localhost:1313/life-cycle/</loc>
+    <loc>/life-cycle/</loc>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>/</loc>
   </url><url>
-    <loc>//localhost:1313/risk-assessment/</loc>
+    <loc>/risk-assessment/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>

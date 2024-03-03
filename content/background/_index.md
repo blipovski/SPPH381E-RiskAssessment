@@ -15,23 +15,30 @@ Thermal receipt paper utilizes a thermochromic process for inkless printing, ach
 
 ### Topcoat
 
-The **topcoat** on receipt paper, also known as the protective layer, is applied over the thermal coating to protect the thermally sensitive layer from environmental factors, abrasion, and other physical damages that could affect the print quality and longevity. This top coat is crucial for ensuring the durability and reliability of the printed information.
+The **topcoat** on receipt paper, also known as the protective layer, is applied over the thermal coating to protect the thermally sensitive layer from environmental factors, abrasion, and other physical damages that could affect the print quality and longevity.
 
 ### Thermal Layer
 
-Central to its function is the **thermal layer**, where a mix of active agents triggers the color-changing process essential for printing.
+At its core, the **thermal layer** contains a mix of active agents that undergo a colour-changing process when exposed to heat. The next section explores the layer in greater detail.
 
 ### Precoat
 
-The **precoat** in receipt paper, sometimes referred to as the primer layer, is a foundational coating applied between the base paper and the thermal-sensitive layer. Its main purpose is to smooth out the surface of the base paper, providing an optimal substrate for the uniform application of the thermal-sensitive coating. The pre-coat enhances the quality and sensitivity of the final thermal print by ensuring that the thermal layer is evenly distributed, which is crucial for consistent image quality.
+The **precoat** is the coating between the base paper and the thermal-sensitive layer, smoothing the base paper's surface for a uniform and precise interaction with the thermal printhead.
 
 ### Base Paper
 
-The **base paper** in receipt paper serves as the foundation upon which the thermal coating is applied. It is typically made from high-quality, fine paper that is designed to provide stability, durability, and the proper physical characteristics needed for thermal printing. The base paper must be smooth and uniform to ensure consistent heat transfer during the printing process, resulting in clear and precise images or text.
+The **base paper** constitutes the actual paper component of receipts, offering the essential stability, durability, and specific physical qualities needed for thermal printing.
 
 ### Backcoat
 
-The **backcoat** on receipt paper serves as a protective layer applied to the reverse side of the paper, opposite the thermally sensitive side. Its primary purpose is to protect the paper from physical and environmental damage, enhance durability during handling and printing, and sometimes to facilitate smooth feeding through printers and scanning devices. The backcoat is especially important for rolls of thermal paper used in high-speed printers, where friction and static electricity can cause wear and tear.
+The **backcoat** functions as a protective layer, increasing durability and offering protection from physical and environmental damage.
 
 {{% /steps %}}
 
+The image below offers a visual representation of the layers and their respective proportions.
+
+![Receipt Paper Layers](rp-layers.jpg "Image Courtesy of Jujo Thermal")
+
+<!--- https://www.jujothermal.com/technical-guide/thermal-paper-technology/ --->
+
+Next, let's take a deeper look at the mechanism of action that causes the receipt paper to change colour.

@@ -3,10 +3,8 @@ title: Chemicals
 type: docs
 weight: 2
 prev: background/context
-next: risk-assessment
+next: background/reaction
 ---
-
-## Thermal Layer
 
 ```mermaid
 
@@ -25,7 +23,13 @@ flowchart LR
 
 ```
 
-Within the thermal layer, six chemical components facilitate a reaction when the receipt paper is exposed to heat. Critically, the agents responsible for the color change are the leuco dye, developer, and phase change materials. Although the precise composition may vary, these chemicals are commonly used:
+## Thermal Layer
+
+Within the thermal layer, five chemical components facilitate a reaction when the receipt paper is exposed to heat. Critically, the agents responsible for the color change are the leuco dye, developer, and phase change materials.
+
+{{< callout type="info" >}}
+The examples listed are among the most frequently utilized chemicals. The precise composition may vary between products and manufactorers.
+{{< /callout >}}
 
 ### Leuco Dyes
 
@@ -56,5 +60,3 @@ Two most common developers used (click to learn more):
 Phase change materials serve as the medium within which the leuco dye and developer are embedded. When heat is applied, it melts, allowing a reaction between the leuco dye and developer.
 
 ![Receipt Paper Layers](rp-layers.jpg)
-
-[^1]: test

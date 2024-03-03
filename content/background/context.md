@@ -14,7 +14,7 @@ A point-of-sales (POS) receipt is a document acknowledging that a person has rec
 This project uses the term **Receipt Paper** is used 
 {{< /callout >}}
 
-## Comparison
+## Comparison to Traditional Paper
 
 RP is a chemically coated paper that reacts to heat for inkless printing. Designed to be cost-effective for businesses requiring swift, ink-free printing, RP is available in rolls, making it easily adaptable to the high-volume demands of retail and service industry transactions. However, its chemical coating poses environmental recycling challenges, contrasting with the more straightforward, eco-friendly recycling of regular paper. Additionally, RP has limitations for preserving documents long-term because the information gradually fades with time. Nevertheless, its adoption continues unabated and remains the global standard for businesses globally.
 

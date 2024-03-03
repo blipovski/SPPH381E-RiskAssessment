@@ -1,0 +1,189 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SPPH 381E – Background</title>
+    <link>//localhost:1313/docs/background/</link>
+    <description>Recent content in Background on SPPH 381E</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="//localhost:1313/docs/background/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Structural Anatomy</title>
+      <link>//localhost:1313/docs/background/layers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/background/layers/</guid>
+      <description>
+        
+        
+        &lt;p&gt;
+    &lt;figure&gt;
+    &lt;img src=&#34;../paper-mill_6000x2000.png&#34; title=&#34;Image Courtesy of Panda Paper on Unsplash&#34; alt=&#34;Receipt Paper Rolls&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;figcaption&gt;Image Courtesy of Panda Paper on Unsplash&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;Thermal receipt paper utilizes a thermochromic process for inkless printing, achieved through its multi-layered composition. These layers, comprising the topcoat, thermal layer, base paper, precoat, and backcoat, work in concert to ensure the print&amp;rsquo;s durability and clarity. Central to its function is the thermal layer, where a mix of active agents triggers the color-changing process essential for printing.&lt;/p&gt;
+&lt;div class=&#34;steps ml-4 mb-12 border-l border-gray-200 pl-6 dark:border-neutral-800 [counter-reset:step]&#34;&gt;
+&lt;h3&gt;Topcoat&lt;span class=&#34;absolute -mt-20&#34; id=&#34;topcoat&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#topcoat&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The &lt;strong&gt;topcoat&lt;/strong&gt; on receipt paper, also known as the protective layer, is applied over the thermal coating to protect the thermally sensitive layer from environmental factors, abrasion, and other physical damages that could affect the print quality and longevity.&lt;/p&gt;
+&lt;h3&gt;Thermal Layer&lt;span class=&#34;absolute -mt-20&#34; id=&#34;thermal-layer&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#thermal-layer&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;At its core, the &lt;strong&gt;thermal layer&lt;/strong&gt; contains a mix of active agents that undergo a colour-changing process when exposed to heat. The next section explores the layer in greater detail.&lt;/p&gt;
+&lt;h3&gt;Precoat&lt;span class=&#34;absolute -mt-20&#34; id=&#34;precoat&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#precoat&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The &lt;strong&gt;precoat&lt;/strong&gt; is the coating between the base paper and the thermal-sensitive layer, smoothing the base paper&amp;rsquo;s surface for a uniform and precise interaction with the thermal printhead.&lt;/p&gt;
+&lt;h3&gt;Base Paper&lt;span class=&#34;absolute -mt-20&#34; id=&#34;base-paper&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#base-paper&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The &lt;strong&gt;base paper&lt;/strong&gt; constitutes the actual paper component of receipts, offering the essential stability, durability, and specific physical qualities needed for thermal printing.&lt;/p&gt;
+&lt;h3&gt;Backcoat&lt;span class=&#34;absolute -mt-20&#34; id=&#34;backcoat&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#backcoat&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The &lt;strong&gt;backcoat&lt;/strong&gt; functions as a protective layer, increasing durability and offering protection from physical and environmental damage.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;The image below offers a visual representation of the layers and their respective proportions.&lt;/p&gt;
+&lt;p&gt;
+    &lt;figure&gt;
+    &lt;img src=&#34;../rp-layers.jpg&#34; title=&#34;Image Courtesy of Jujo Thermal&#34; alt=&#34;Receipt Paper Layers&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;figcaption&gt;Image Courtesy of Jujo Thermal&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;!--- https://www.jujothermal.com/technical-guide/thermal-paper-technology/ ---&gt;
+&lt;p&gt;Next, let&amp;rsquo;s take a deeper look at the mechanism of action that causes the receipt paper to change colour.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Chemicals</title>
+      <link>//localhost:1313/docs/background/chemicals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/background/chemicals/</guid>
+      <description>
+        
+        
+        &lt;pre class=&#34;mermaid mt-6&#34;&gt;
+flowchart LR
+	leuco([Leuco Dye]) ---&gt; pcm[Phase Change Material]
+    dev([Developer]) ---&gt; pcm
+    
+    pcm --&gt; tl[Thermal Layer]
+
+    sen([Sensitizers]) --&gt; tl
+    stab([Stabilizers]) --&gt; tl
+
+    tl --&gt; rp((( Receipt Paper)))
+    
+    style tl stroke-width:4px,stroke-dasharray: 0&lt;/pre&gt;&lt;h2&gt;Thermal Layer&lt;span class=&#34;absolute -mt-20&#34; id=&#34;thermal-layer&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#thermal-layer&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Within the thermal layer, five chemical components facilitate a reaction when the receipt paper is exposed to heat. Critically, the agents responsible for the color change are the leuco dye, developer, and phase change materials.&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      The examples listed are among the most frequently utilized chemicals. The precise composition may vary between products and manufactorers.
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3&gt;Leuco Dyes&lt;span class=&#34;absolute -mt-20&#34; id=&#34;leuco-dyes&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#leuco-dyes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Leuco Dyes are colourless (or nearly colourless) compounds that can be transformed into a coloured state by a chemical reaction. In thermal paper, leuco dyes develop colour when they react with developers. The colour change typically occurs due to a structural change in the dye molecule, which alters the way it absorbs and reflects light.&lt;/p&gt;
+&lt;p&gt;Two most common leuco dyes used (click to learn more):&lt;/p&gt;
+&lt;!--- Chemical Structures Crop: 1600x1200 dpi:96 ---&gt;
+
+
+&lt;div class=&#34;hextra-cards mt-4 gap-4 grid not-prose&#34; style=&#34;--rows: 3;&#34;&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-gray-100 shadow dark:border-neutral-700 dark:bg-neutral-800 dark:text-gray-50 hover:shadow-lg dark:hover:border-neutral-500 dark:hover:bg-neutral-700&#34;href=&#34;https://pubchem.ncbi.nlm.nih.gov/compound/68994&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;img
+        alt=&#34;Fluoran&#34;
+        loading=&#34;lazy&#34;
+        decoding=&#34;async&#34;
+        src=&#34;//localhost:1313/images/fluoran.png&#34;
+        
+        
+        
+      /&gt;&lt;span class=&#34;flex font-semibold items-start gap-2 pt-4 px-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;Fluoran&lt;/span&gt;&lt;div class=&#34;line-clamp-3 text-sm font-normal text-gray-500 dark:text-gray-400 px-4 mb-4 mt-2&#34;&gt;Fluoran is a broad category of leuco dyes that can produce typically black or blue.&lt;/div&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-gray-100 shadow dark:border-neutral-700 dark:bg-neutral-800 dark:text-gray-50 hover:shadow-lg dark:hover:border-neutral-500 dark:hover:bg-neutral-700&#34;href=&#34;https://pubchem.ncbi.nlm.nih.gov/compound/73773&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;img
+        alt=&#34;Crystal Violet Lactone (CVL)&#34;
+        loading=&#34;lazy&#34;
+        decoding=&#34;async&#34;
+        src=&#34;//localhost:1313/images/cvl.png&#34;
+        
+        
+        
+      /&gt;&lt;span class=&#34;flex font-semibold items-start gap-2 pt-4 px-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;Crystal Violet Lactone (CVL)&lt;/span&gt;&lt;div class=&#34;line-clamp-3 text-sm font-normal text-gray-500 dark:text-gray-400 px-4 mb-4 mt-2&#34;&gt;CVL is a triphenylmethane leuco dye that is used to produce blue or violet.&lt;/div&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;h3&gt;Developers&lt;span class=&#34;absolute -mt-20&#34; id=&#34;developers&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#developers&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Developers are chemicals that react with leuco dyes in the presence of heat to produce the colour change. Developers have acidic properties that trigger leuco dyes to change colour.&lt;/p&gt;
+&lt;p&gt;Two most common developers used (click to learn more):&lt;/p&gt;
+
+
+&lt;div class=&#34;hextra-cards mt-4 gap-4 grid not-prose&#34; style=&#34;--rows: 3;&#34;&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-gray-100 shadow dark:border-neutral-700 dark:bg-neutral-800 dark:text-gray-50 hover:shadow-lg dark:hover:border-neutral-500 dark:hover:bg-neutral-700&#34;href=&#34;https://pubchem.ncbi.nlm.nih.gov/compound/6623&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;img
+        alt=&#34;Bisphenol A (BPA)&#34;
+        loading=&#34;lazy&#34;
+        decoding=&#34;async&#34;
+        src=&#34;//localhost:1313/images/bpa.png&#34;
+        
+        
+        
+      /&gt;&lt;span class=&#34;flex font-semibold items-start gap-2 pt-4 px-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;Bisphenol A (BPA)&lt;/span&gt;&lt;div class=&#34;line-clamp-3 text-sm font-normal text-gray-500 dark:text-gray-400 px-4 mb-4 mt-2&#34;&gt;subtitle&lt;/div&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-gray-100 shadow dark:border-neutral-700 dark:bg-neutral-800 dark:text-gray-50 hover:shadow-lg dark:hover:border-neutral-500 dark:hover:bg-neutral-700&#34;href=&#34;https://pubchem.ncbi.nlm.nih.gov/compound/6626&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;img
+        alt=&#34;Bisphenol S (BPS)&#34;
+        loading=&#34;lazy&#34;
+        decoding=&#34;async&#34;
+        src=&#34;//localhost:1313/images/bps.png&#34;
+        
+        
+        
+      /&gt;&lt;span class=&#34;flex font-semibold items-start gap-2 pt-4 px-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;Bisphenol S (BPS)&lt;/span&gt;&lt;div class=&#34;line-clamp-3 text-sm font-normal text-gray-500 dark:text-gray-400 px-4 mb-4 mt-2&#34;&gt;Subtitle&lt;/div&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;h3&gt;Phase Change Materials (PCM)&lt;span class=&#34;absolute -mt-20&#34; id=&#34;phase-change-materials-pcm&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#phase-change-materials-pcm&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Phase change materials serve as the medium within which the leuco dye and developer are embedded. When heat is applied, it melts, allowing a reaction between the leuco dye and developer.&lt;/p&gt;
+&lt;p&gt;
+    &lt;img src=&#34;../rp-layers.jpg&#34; alt=&#34;Receipt Paper Layers&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Reaction</title>
+      <link>//localhost:1313/docs/background/reaction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/background/reaction/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Thermal Layer&lt;span class=&#34;absolute -mt-20&#34; id=&#34;thermal-layer&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#thermal-layer&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
+      </description>
+    </item>
+    
+  </channel>
+</rss>

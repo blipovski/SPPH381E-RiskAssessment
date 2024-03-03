@@ -1,0 +1,88 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SPPH 381E – Introduction</title>
+    <link>//localhost:1313/docs/intro/</link>
+    <description>Recent content in Introduction on SPPH 381E</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="//localhost:1313/docs/intro/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>The Paper Trail Begins</title>
+      <link>//localhost:1313/docs/intro/start/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/intro/start/</guid>
+      <description>
+        
+        
+        &lt;!--- Draft Complete ---&gt;
+&lt;p&gt;
+    &lt;figure&gt;
+    &lt;img src=&#34;../receipt-printer_6000x2000.png&#34; title=&#34;Image Courtesy of Towfiqu Barbhuiya on Unsplash&#34; alt=&#34;Receipt Paper Rolls&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;figcaption&gt;Image Courtesy of Towfiqu Barbhuiya on Unsplash&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;In the vast landscape of consumerism, paper receipts hold a crucial place in the routine functioning of business transactions. Utilized across various sectors, such as grocery stores, banking, restaurants, and gas stations, receipts have become an omnipresent component of modern commerce. Receipts, valued for their fast and legible printing, play a crucial role in personal and commercial accounting. Although Canada does not have explicit legislation mandating receipts (for payment acknowledgement), it has become a widely adopted practice, effectively making it a de facto standard.&lt;/p&gt;
+&lt;p&gt;With receipts being produced for every transaction, we have become inundated with a constant stream of paper, contributing to environmental concerns and clutter in our daily lives. Given that Canada processes around 30 million financial transactions daily (Bank of Canada), it is difficult to quantify the number of receipts produced. Highlighting the broader context, the global market for receipt paper was estimated at USD 4.16 billion in 2023 (Grandview Research), demonstrating the vast consumption and environmental footprint of transactions worldwide. Transitioning from the scale of consumption to its environmental implications, the life cycle of receipt paper offers insight into the multifaceted impacts and risks of this ubiquitous product.&lt;/p&gt;
+&lt;p&gt;The purpose of this project is to examine the lifecycle of receipt paper, from resource extraction through to disposal. Concurrently, this project aims to perform an in-depth risk assessment of occupational hazards throughout each phase and analyze the effectiveness of current hazard control measures. The objective of this analysis is to illuminate the environmental and health implications of receipt paper production and use, guiding more sustainable practices and risk mitigation strategies.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Key Definitions</title>
+      <link>//localhost:1313/docs/intro/definitions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/intro/definitions/</guid>
+      <description>
+        
+        
+        &lt;!--- WIP ---&gt;
+&lt;h2&gt;What is Receipt Paper?&lt;span class=&#34;absolute -mt-20&#34; id=&#34;what-is-receipt-paper&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#what-is-receipt-paper&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;A point-of-sales (POS) receipt is a document acknowledging that a person has received money or property in payment following a sale or other transfer of goods or provision of a service. It serves as proof of transaction and typically includes details such as the date of purchase, the items purchased, their prices, the total amount paid, and the seller&amp;rsquo;s information. Unlike other receipts, such as invoices which are issued prior to payment as a request for payment, or e-receipts sent digitally to customers, POS receipts are tangible proof provided immediately after a purchase.&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      This project uses the term &lt;strong&gt;Receipt Paper&lt;/strong&gt; is used
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2&gt;Comparison to Traditional Paper&lt;span class=&#34;absolute -mt-20&#34; id=&#34;comparison-to-traditional-paper&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#comparison-to-traditional-paper&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;RP is a chemically coated paper that reacts to heat for inkless printing. Designed to be cost-effective for businesses requiring swift, ink-free printing, RP is available in rolls, making it easily adaptable to the high-volume demands of retail and service industry transactions. However, its chemical coating poses environmental recycling challenges, contrasting with the more straightforward, eco-friendly recycling of regular paper. Additionally, RP has limitations for preserving documents long-term because the information gradually fades with time. Nevertheless, its adoption continues unabated and remains the global standard for businesses globally.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

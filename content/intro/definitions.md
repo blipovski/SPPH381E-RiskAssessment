@@ -1,10 +1,12 @@
 ---
-title: Context 
+title: Key Definitions 
 type: docs
-weight: 1
-prev: background
-next: background/chemicals
+weight: 2
+prev: intro/start
+next: background
 ---
+
+<!--- WIP --->
 
 ## What is Receipt Paper?
 

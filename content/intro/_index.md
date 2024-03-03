@@ -2,17 +2,21 @@
 title: Introduction
 type: docs
 prev: /
-next: background
+next: intro/start
 ---
 
-![Receipt Paper Rolls](receipt-printer_6000x2000.png "Image Courtesy of Towfiqu Barbhuiya on Unsplash")
+<!--- Draft Complete --->
 
-## The Paper Trail Begins
+Before we delve into the details of receipt paper, it's crucial to understand how this website is organized. 
+The site is designed with a documentation-style approach, organizing information in a clear and linear progression. 
+The project is divided into four main sections: (1) introduction, (2) background, (3) life cycle assessment, and (4) risk assessment. 
 
-In the vast landscape of consumerism, paper receipts hold a crucial place in the routine functioning of business transactions. Utilized across various sectors, such as grocery stores, banking, restaurants, and gas stations, receipts have become an omnipresent component of modern commerce. Receipts, valued for their fast and legible printing, play a crucial role in personal and commercial accounting. Although Canada does not have explicit legislation mandating receipts (for payment acknowledgement), it has become a widely adopted practice, effectively making it a de facto standard.
-
-With receipts being produced for every transaction, we have become inundated with a constant stream of paper, contributing to environmental concerns and clutter in our daily lives. Given that Canada processes around 30 million financial transactions daily (Bank of Canada), it is difficult to quantify the number of receipts produced. Highlighting the broader context, the global market for receipt paper was estimated at USD 4.16 billion in 2023 (Grandview Research), demonstrating the vast consumption and environmental footprint of transactions worldwide. Transitioning from the scale of consumption to its environmental implications, the life cycle of receipt paper offers insight into the multifaceted impacts and risks of this ubiquitous product. 
-
-The purpose of this project is to examine the lifecycle of receipt paper, from resource extraction through to disposal. Concurrently, this project aims to perform an in-depth risk assessment of occupational hazards throughout each phase and analyze the effectiveness of current hazard control measures. The objective of this analysis is to illuminate the environmental and health implications of receipt paper production and use, guiding more sustainable practices and risk mitigation strategies. 
-
-This project is based on a modified approach to ISO 14040 and ISO 14044 standards.
+<p>For smooth navigation, you’ll find <code><span class="inline-block align-text-bottom icon"><svg height="1em" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7"></path></svg></span>previous</code> and <code> next<span class="inline-block align-text-bottom icon"><svg height="1em" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"></path></svg></span></code> buttons at the bottom of each page.
+To quickly move across different topics, utilize the sidebar on the left side of each page. 
+Additionally, the landing page of each section offers a detailed table of contents<, showcasing the topics available for exploration (see below!).
+At any point, you can return to the homepage by clicking <code>SPPH 381E</code> on the website’s header.</p>
+<br>
+{{< cards >}}
+  {{< card link="start" title="The Paper Trail Begins" icon="flag" >}}
+  {{< card link="definitions" title="Key Definitions" icon="globe-alt" >}}
+{{< /cards >}}

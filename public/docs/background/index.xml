@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SPPH 381E – Background</title>
-    <link>//localhost:1313/docs/background/</link>
+    <link>/docs/background/</link>
     <description>Recent content in Background on SPPH 381E</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="//localhost:1313/docs/background/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="/docs/background/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Structural Anatomy</title>
-      <link>//localhost:1313/docs/background/layers/</link>
+      <link>/docs/background/layers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/docs/background/layers/</guid>
+      <guid>/docs/background/layers/</guid>
       <description>
         
         
@@ -55,10 +55,10 @@
     
     <item>
       <title>Chemicals</title>
-      <link>//localhost:1313/docs/background/chemicals/</link>
+      <link>/docs/background/chemicals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/docs/background/chemicals/</guid>
+      <guid>/docs/background/chemicals/</guid>
       <description>
         
         
@@ -118,7 +118,7 @@ flowchart LR
         alt=&#34;Fluoran&#34;
         loading=&#34;lazy&#34;
         decoding=&#34;async&#34;
-        src=&#34;//localhost:1313/images/fluoran.png&#34;
+        src=&#34;/images/fluoran.png&#34;
         
         
         
@@ -128,7 +128,7 @@ flowchart LR
         alt=&#34;Crystal Violet Lactone (CVL)&#34;
         loading=&#34;lazy&#34;
         decoding=&#34;async&#34;
-        src=&#34;//localhost:1313/images/cvl.png&#34;
+        src=&#34;/images/cvl.png&#34;
         
         
         
@@ -146,7 +146,7 @@ flowchart LR
         alt=&#34;Bisphenol A (BPA)&#34;
         loading=&#34;lazy&#34;
         decoding=&#34;async&#34;
-        src=&#34;//localhost:1313/images/bpa.png&#34;
+        src=&#34;/images/bpa.png&#34;
         
         
         
@@ -156,7 +156,7 @@ flowchart LR
         alt=&#34;Bisphenol S (BPS)&#34;
         loading=&#34;lazy&#34;
         decoding=&#34;async&#34;
-        src=&#34;//localhost:1313/images/bps.png&#34;
+        src=&#34;/images/bps.png&#34;
         
         
         
@@ -173,10 +173,10 @@ flowchart LR
     
     <item>
       <title>Reaction</title>
-      <link>//localhost:1313/docs/background/reaction/</link>
+      <link>/docs/background/reaction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/docs/background/reaction/</guid>
+      <guid>/docs/background/reaction/</guid>
       <description>
         
         

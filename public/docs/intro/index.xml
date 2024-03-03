@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SPPH 381E – Introduction</title>
-    <link>//localhost:1313/docs/intro/</link>
+    <link>/docs/intro/</link>
     <description>Recent content in Introduction on SPPH 381E</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="//localhost:1313/docs/intro/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="/docs/intro/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>The Paper Trail Begins</title>
-      <link>//localhost:1313/docs/intro/start/</link>
+      <link>/docs/intro/start/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/docs/intro/start/</guid>
+      <guid>/docs/intro/start/</guid>
       <description>
         
         
@@ -38,10 +38,10 @@
     
     <item>
       <title>Key Definitions</title>
-      <link>//localhost:1313/docs/intro/definitions/</link>
+      <link>/docs/intro/definitions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/docs/intro/definitions/</guid>
+      <guid>/docs/intro/definitions/</guid>
       <description>
         
         

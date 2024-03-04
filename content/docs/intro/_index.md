@@ -6,7 +6,7 @@ prev: /
 next: docs/intro/start
 ---
 
-<!--- Draft Complete --->
+<!--- COMPLETE --->
 
 Before we delve into the details of receipt paper, it's crucial to understand how this website is organized. 
 The site is designed with a documentation-style approach, organizing information in a clear and linear progression. 

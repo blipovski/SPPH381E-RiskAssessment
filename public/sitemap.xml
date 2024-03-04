@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/docs/background/layers/</loc>
+  </url><url>
     <loc>/docs/life-cycle/1/</loc>
   </url><url>
     <loc>/docs/intro/</loc>
-  </url><url>
-    <loc>/docs/background/layers/</loc>
   </url><url>
     <loc>/docs/intro/start/</loc>
   </url><url>
     <loc>/docs/background/</loc>
   </url><url>
-    <loc>/docs/background/chemicals/</loc>
-  </url><url>
     <loc>/docs/life-cycle/2/</loc>
+  </url><url>
+    <loc>/docs/background/chemicals/</loc>
   </url><url>
     <loc>/docs/intro/definitions/</loc>
   </url><url>
@@ -29,6 +29,8 @@
     <loc>/docs/risk-assessment/</loc>
   </url><url>
     <loc>/docs/life-cycle/5/</loc>
+  </url><url>
+    <loc>/docs/discussion/</loc>
   </url><url>
     <loc>/about/</loc>
   </url><url>

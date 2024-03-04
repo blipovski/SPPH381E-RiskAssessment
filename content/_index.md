@@ -2,6 +2,7 @@
 title: Receipt Paper
 toc: false
 ---
+
 ![Frontpage banner](receipt_6000x1000.png "Image Courtesy of upklyak on Freepik")
 
 <!--- https://www.freepik.com/free-vector/realistic-set-receipt-paper-templates-grey_37077070.htm#query=long%20receipt&position=42 from_view=keyword&track=ais&uuid=e8301b97-de9d-4398-81d1-47fb8217d7d5 --->

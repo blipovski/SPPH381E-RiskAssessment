@@ -6,8 +6,9 @@ prev: docs/intro/definitions
 next: docs/background/layers
 ---
 
-Before delving into the main topics of this project, it is important to understand the chemistry of receipt paper. 
-In this section, we will explore the science behind receipt paper.
+<!--- COMPLETE --->
+
+Before delving into the main topics of this project, it is important to understand the chemistry of receipt paper.
 
 {{< cards >}}
   {{< card link="layers" title="Structural Anatomy" icon="stack" >}}

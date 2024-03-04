@@ -30,11 +30,11 @@ menu:
       weight: 2
       params:
         type: search
-#    - name: BL Portfolio
-#      weight: 3
-#      url: "https://lipovski.ca"
-#      params:
-#        icon: blogo
+    - name: Downlaod
+      weight: 3
+      pageRef: "/ProjectReport.pdf"
+      params:
+        icon: cloud-download
     - name: GitHub
       weight: 3
       url: "https://github.com/blipovski/SPPH381E-RiskAssessment"

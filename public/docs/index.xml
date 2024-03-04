@@ -73,11 +73,25 @@
     </item>
     
     <item>
-      <title>Goal &amp; Scope Definition</title>
-      <link>/docs/life-cycle/1/</link>
+      <title>Cradle to Grave</title>
+      <link>/docs/life-cycle/cycle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/life-cycle/1/</guid>
+      <guid>/docs/life-cycle/cycle/</guid>
+      <description>
+        
+        
+        &lt;p&gt;wip&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Resource Extraction</title>
+      <link>/docs/risk-assessment/1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/risk-assessment/1/</guid>
       <description>
         
         
@@ -129,19 +143,6 @@ The objective of this analysis is to illuminate the environmental and health imp
 &lt;/ol&gt;
 &lt;/div&gt;
 
-      </description>
-    </item>
-    
-    <item>
-      <title>Inventory Analysis</title>
-      <link>/docs/life-cycle/2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/docs/life-cycle/2/</guid>
-      <description>
-        
-        
-        
       </description>
     </item>
     
@@ -379,11 +380,37 @@ However, its chemical coating poses environmental recycling challenges, contrast
     </item>
     
     <item>
-      <title>Impact Assessment</title>
-      <link>/docs/life-cycle/3/</link>
+      <title>Manufacturing</title>
+      <link>/docs/risk-assessment/2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/life-cycle/3/</guid>
+      <guid>/docs/risk-assessment/2/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Reuse &amp; Recycle?</title>
+      <link>/docs/life-cycle/reuse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/life-cycle/reuse/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Distribution &amp; Use</title>
+      <link>/docs/risk-assessment/3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/risk-assessment/3/</guid>
       <description>
         
         
@@ -460,24 +487,11 @@ Over time, the chemical bonds in the paper start to break down, leading to a gra
     </item>
     
     <item>
-      <title>Interpretation</title>
-      <link>/docs/life-cycle/4/</link>
+      <title>Disposal</title>
+      <link>/docs/risk-assessment/4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/life-cycle/4/</guid>
-      <description>
-        
-        
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Critical Review</title>
-      <link>/docs/life-cycle/5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/docs/life-cycle/5/</guid>
+      <guid>/docs/risk-assessment/4/</guid>
       <description>
         
         

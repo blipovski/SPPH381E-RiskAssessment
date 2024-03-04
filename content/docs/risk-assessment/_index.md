@@ -1,10 +1,15 @@
 ---
 title: Risk Assessment
 weight: 4
-prev: /
-next: /
+prev: docs/life-cycle/reuse
+next: docs/risk-assessment/1
 ---
 
-![Worker reviewing stock in warehouse](clipboard-worker_6000x2000.png "Image Courtesy of Mauricio Gutiérrez on Unsplash")
+The lifecycle of receipt paper involves several phases, each associated with specific occupational hazards. Below is an analysis of common hazards across different phases of the life cycle, including hazard identification, evaluation, and control measures.
 
-words.
+{{< cards >}}
+  {{< card link="1" title="Resource Extraction" icon="oil" >}}
+  {{< card link="2" title="Manufacturing" icon="factory" >}}
+  {{< card link="3" title="Distribution & Use" icon="receipt" >}}
+  {{< card link="4" title="Disposal" icon="trash" >}}
+{{< /cards >}}

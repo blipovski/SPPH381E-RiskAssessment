@@ -45,7 +45,7 @@ menu:
       params:
         type: separator
       weight: 1
-    - name: "Reference 🔍"
+    - name: "References ↗"
       pageRef: "/references"
       weight: 2
 

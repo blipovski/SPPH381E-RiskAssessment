@@ -1,15 +1,24 @@
-# Hextra Starter Template
+# SPPH 381E Project Website
 
-[![Deploy Hugo site to Pages](https://github.com/imfing/hextra-starter-template/actions/workflows/pages.yaml/badge.svg)](https://github.com/imfing/hextra-starter-template/actions/workflows/pages.yaml)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6e83fd88-5ffe-4808-9689-c0f3b100bfe3/deploy-status)](https://app.netlify.com/sites/hextra-starter-template/deploys)
-![Vercel Deployment Status](https://img.shields.io/github/deployments/imfing/hextra-starter-template/production?logo=vercel&logoColor=white&label=vercel&labelColor=black&link=https%3A%2F%2Fhextra-starter-template.vercel.app%2F)
+👋 Welcome to my Project Website repository 👋
 
+This website is the result of my examination into the health and occupational hazards associated with receipt paper. This project was submitted as part of the risk assessment assignment for the SPPH 381E (Work & Health) course at the University of British Columbia during the spring semester of 2024. Designed using Hugo, a static site generator written in Go, this website uses the Hextra theme to host an engaging and accessible space to share my findings and insights.
 
-🐣 Minimal template for getting started with [Hextra](https://github.com/imfing/hextra)
+The SPPH project website, hosted at https://spph.lipovski.ca, is structured to guide visitors through the intricate details of receipt paper's impact, from production to disposal. The website is divided into main sections: Introduction, Background, Life Cycle Assessment, and Risk Assessment, providing a clear and linear progression of information.
 
-![hextra-template](https://github.com/imfing/hextra-starter-template/assets/5097752/c403b9a9-a76c-47a6-8466-513d772ef0b7)
+# Features
 
-[🌐 Demo ↗](https://imfing.github.io/hextra-starter-template/)
+- **Documentation-Style Layout:** Information is organized in a logical sequence, making it easy to navigate and understand the complex subject matter.
+- **Interactive Elements:** Utilize previous and next buttons for smooth navigation between sections, and access various topics through the sidebar or homepage buttons.
+- **Comprehensive Analysis:** The website consolidates a wealth of research findings, presenting them in a user-friendly digital format.
+
+# Hugo
+
+This project is built using the Hugo static site generator, leveraging the versatile Hextra theme for its design and structure. To learn more, visit the [Hugo website](https://gohugo.io).
+
+# Hugo Hextra
+
+To use this Hugo theme, visit the [Hextra Repository](https://github.com/imfing/hextra).
 
 ## Quick Start
 
@@ -81,3 +90,10 @@ hugo mod tidy
 
 See [Update modules](https://gohugo.io/hugo-modules/use-modules/#update-modules) for more details.
 
+# License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+# Acknowledgments
+
+Thanks to the creators of Hugo and the Hextra theme for making this project possible. Special thanks to Dr. Robert Macpherson and the SPPH 381E course team for their support and guidance throughout the project's development.

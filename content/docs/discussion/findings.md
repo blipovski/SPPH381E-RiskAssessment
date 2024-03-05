@@ -6,6 +6,8 @@ prev: docs/discussion
 next: docs/discussion/conclusion
 ---
 
+![Frontpage banner](cachier_6000x2000.png "Image Courtesy of Simon Kadula on Freepik")
+
 Following a comprehensive life cycle and risk assessment conducted in this project, the following key findings are presented.
 
 {{% steps %}}

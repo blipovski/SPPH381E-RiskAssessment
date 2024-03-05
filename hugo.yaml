@@ -40,6 +40,14 @@ menu:
       url: "https://github.com/blipovski/SPPH381E-RiskAssessment"
       params:
         icon: github
+  sidebar:
+    - name: More
+      params:
+        type: separator
+      weight: 1
+    - name: "Reference 🔍"
+      pageRef: "/references"
+      weight: 2
 
 params:
   navbar:

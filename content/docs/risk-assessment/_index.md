@@ -5,7 +5,8 @@ prev: docs/life-cycle/reuse
 next: docs/risk-assessment/1
 ---
 
-The lifecycle of receipt paper involves several phases, each associated with specific occupational hazards. Below is an analysis of common hazards across different phases of the life cycle, including hazard identification, evaluation, and control measures.
+The life cycle of receipt paper involves various phases, each accompanied by occupational hazards. 
+Below is an analysis of common hazards across different phases of the life cycle, including hazard identification, evaluation, and control measures.
 
 {{< cards >}}
   {{< card link="1" title="Resource Extraction" icon="oil" >}}

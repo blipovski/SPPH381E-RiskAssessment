@@ -8,11 +8,15 @@
   </url><url>
     <loc>/docs/intro/</loc>
   </url><url>
+    <loc>/docs/discussion/findings/</loc>
+  </url><url>
     <loc>/docs/risk-assessment/1/</loc>
   </url><url>
     <loc>/docs/intro/start/</loc>
   </url><url>
     <loc>/docs/background/</loc>
+  </url><url>
+    <loc>/docs/discussion/conclusion/</loc>
   </url><url>
     <loc>/docs/background/chemicals/</loc>
   </url><url>
@@ -34,8 +38,6 @@
   </url><url>
     <loc>/docs/discussion/</loc>
   </url><url>
-    <loc>/docs/references/</loc>
-  </url><url>
     <loc>/about/</loc>
   </url><url>
     <loc>/categories/</loc>
@@ -43,6 +45,8 @@
     <loc>/docs/</loc>
   </url><url>
     <loc>/</loc>
+  </url><url>
+    <loc>/references/</loc>
   </url><url>
     <loc>/tags/</loc>
   </url>

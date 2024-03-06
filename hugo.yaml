@@ -66,3 +66,7 @@ params:
   editURL:
     enable: false
     base: 
+
+services:
+  googleAnalytics:
+    ID: G-63GZ7DX023

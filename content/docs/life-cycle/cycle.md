@@ -8,6 +8,8 @@ next: docs/life-cyle/reuse
 
 <!--- COMPLETE --->
 
+![Receipt Paper Rolls](paper-rolls_6000x2000.png "Image Courtesy of Mauricio Gutiérrez on Unsplash")
+
 This life cycle assessment critically examines the environmental footprint of thermal receipt paper from production to disposal[^19] [^20]. 
 This analysis partially uses the framework of ISO standards 14040 and 14044 to ensure a systematic and scientifically rigorous evaluation[^19] [^20].
 

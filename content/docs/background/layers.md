@@ -10,10 +10,10 @@ next: docs/background/chemicals
 
 ![Receipt Paper Rolls](paper-mill_6000x2000.png "Image Courtesy of Panda Paper on Unsplash")
 
-{{% steps %}}
-
 Receipt paper uses a thermochromic process for inkless printing, achieved through its multi-layered composition[^6] [^7]. 
 These layers, outlined below, work in tandem to ensure the print’s durability and clarity[^6].
+
+{{% steps %}}
 
 ### Topcoat
 
